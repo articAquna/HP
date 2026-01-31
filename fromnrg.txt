@@ -1,10 +1,2 @@
-ECHO is on.
-asd
-asd
-asd
-asd
-asd
-asd
-asd
-asd
-asd
+
+i am a dragon
